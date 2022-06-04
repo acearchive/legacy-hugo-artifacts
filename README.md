@@ -1,9 +1,28 @@
 # artifacts
 
-This repository contains all the [artifact
-files](https://acearchive.lgbt/docs/contributing/artifact-files/) for [Ace
-Archive](https://acearchive.lgbt). These files contain the metadata for
-artifacts in the repository, and they're used to build the site.
+This repository contains metadata for all the artifacts in [Ace
+Archive](https://acearchive.lgbt).
+
+For every artifact in the archive, there is an *artifact file* in this repo. An
+artifact file holds metadata about the artifact, including
+[CIDs](https://docs.ipfs.io/concepts/content-addressing/) of files associated
+with it.
+
+Each artifact file is a markdown document containing a YAML front matter block,
+however no content goes in the body of the markdown file, so you can just think
+of it as a YAML file with a leading and trailing `---` line and a `.md` file
+extension. The reason why markdown files are used over plain YAML files is for
+compatibility with [Hugo](https://gohugo.io/), the static site generator we use
+to build the site. Currently, [Hugo does not support generating pages from
+YAML/JSON/TOML files](https://github.com/gohugoio/hugo/issues/5074).
+
+The file name of each artifact file (sans file extension) is the URL slug of
+the artifact on the site. If the URL slug of an artifact needs to change for
+any reason, rename the file in this repo and add the old URL slug to the
+`aliases` field.
+
+[The schema of artifact files is documented
+here](https://acearchive.lgbt/docs/contributing/artifact-files/).
 
 ## Contributing
 
@@ -28,8 +47,8 @@ both the current and previous versions of artifacts.
 
 Once you have an artifact's metadata, you can query the files associated with
 that artifact by the file's
-[CID](https://docs.ipfs.io/concepts/content-addressing/#identifier-formats).
-You can do this in one of two ways:
+[CID](https://docs.ipfs.io/concepts/content-addressing/).  You can do this in
+one of two ways:
 
 - You can use an IPFS implementation like
   [go-ipfs](https://github.com/ipfs/go-ipfs) or
@@ -41,8 +60,35 @@ You can do this in one of two ways:
 
 The content of the archive is hosted on the IPFS network using
 [Web3.Storage](https://web3.storage). We use GitHub Actions workflows to
-automatically validate the syntax of [artifact
-files](https://acearchive.lgbt/docs/contributing/artifact-files/) when a pull
-request is opened and upload the content to Web3.Storage when a pull request is
-merged. The code which does this can be found at
+automatically validate the syntax of artifact files when a pull request is
+opened and upload the content to Web3.Storage when a pull request is merged.
+The code which does this can be found at
 [acearchive/artifact-action](https://github.com/acearchive/artifact-action).
+
+## Example
+
+This is an example of an artifact file.
+
+```yaml
+---
+version: 1
+title: "<em>The Asexual Manifesto</em>"
+description: >
+  A paper by the Asexual Caucus of the New York Radical Feminists
+files:
+  - name: "Digital Scan"
+    mediaType: "application/pdf"
+    filename: "the-asexual-manifesto.pdf"
+    cid: "bafybeihsf4562gmmyoya7eh5buxv65lqcdoil3wsi5jf5fceskap7yzooi"
+  - name: "Transcript"
+    mediaType: "text/html"
+    cid: "bafybeiakup4b3mjmzw7mjq3ptnv3dqusdebskra2jic73u74nhbizgu3wi"
+links:
+  - name: "Internet Archive"
+    url: "https://archive.org/details/asexualmanifestolisaorlando"
+people: ["Lisa Orlando", "Barbara Getz"]
+identities: ["asexual"]
+fromYear: 1972
+decades: [1970]
+---
+```
