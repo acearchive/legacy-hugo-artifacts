@@ -6,10 +6,9 @@ body:
     attributes:
       value: >
         Thanks for your interest in Ace Archive! This is a form for suggesting
-        content to be added to the archive. Alternatively, if you want to
-        contribute to the archive yourself, you can [read the
-        documentation](https://acearchive.lgbt/docs/contributing/getting-started)
-        on opening a pull request!
+        content to be added to the archive. Alternatively, if you want to add
+        content to the archive yourself, you can fill out [this more
+        comprehensive form](https://acearchive.lgbt/new-artifact/) instead.
   - type: textarea
     id: context
     attributes:
@@ -40,9 +39,9 @@ body:
     attributes:
       label: "People"
       description: >
-        List 1-3 significant people associated with this content, if
+        List any significant people associated with this content, if
         applicable. It could be the author of a book, a commenter in a forum
-        thread, or the subject of a photo.
+        thread, the subject of a photo, etc.
   - type: input
     id: identities
     attributes:
