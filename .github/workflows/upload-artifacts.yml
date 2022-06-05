@@ -23,7 +23,7 @@ jobs:
       - name: "Checkout"
         uses: actions/checkout@v2
       - name: "Upload"
-        uses: acearchive/artifact-action@main
+        uses: acearchive/artifact-action@v0.1.0
         with:
           w3s-token: ${{ secrets.W3S_API_TOKEN }}
           ipfs-api: "/dns/ipfs/tcp/5001/http"

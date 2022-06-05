@@ -13,4 +13,4 @@ jobs:
       - name: "Checkout"
         uses: actions/checkout@v2
       - name: "Validate"
-        uses: acearchive/artifact-action@main
+        uses: acearchive/artifact-action@v0.1.0
