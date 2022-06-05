@@ -13,8 +13,9 @@ however no content goes in the body of the markdown file, so you can just think
 of it as a YAML file with a leading and trailing `---` line and a `.md` file
 extension. The reason why markdown files are used over plain YAML files is for
 compatibility with [Hugo](https://gohugo.io/), the static site generator we use
-to build the site. Currently, [Hugo does not support generating pages from
-YAML/JSON/TOML files](https://github.com/gohugoio/hugo/issues/5074).
+to build the site. Currently, Hugo [does not
+support](https://github.com/gohugoio/hugo/issues/5074) generating pages from
+YAML/JSON/TOML files.
 
 The file name of each artifact file (sans file extension) is the URL slug of
 the artifact on the site. If the URL slug of an artifact needs to change for
