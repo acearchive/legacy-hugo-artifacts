@@ -1,6 +1,6 @@
 ---
-version: 1
-title: "<em>Haven for the Human Amoeba</em>"
+version: 2
+title: "*Haven for the Human Amoeba*"
 description: >
     The first major online community for asexuals
 longDescription: >

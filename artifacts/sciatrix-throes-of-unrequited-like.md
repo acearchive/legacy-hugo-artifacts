@@ -1,5 +1,5 @@
 ---
-version: 1
+version: 2
 title: "\"Writhing in the Throes of Unrequited Like\""
 description: "The term \"WTFromantic\" is coined in a blog post"
 links:

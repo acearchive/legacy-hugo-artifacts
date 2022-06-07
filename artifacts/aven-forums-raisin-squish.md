@@ -1,6 +1,6 @@
 ---
-version: 1
-title: "\"*SQUISH!*\""
+version: 2
+title: "\"\\*SQUISH!\\*\""
 description: "The term \"squish\" is coined in an AVEN forum thread"
 links:
   - name: "Forum Thread"

@@ -1,6 +1,6 @@
 ---
-version: 1
-title: "<em>The short instructional manifesto for relationship anarchy</em>"
+version: 2
+title: "*The short instructional manifesto for relationship anarchy*"
 description: >
     A pamphlet which first introduced the concept of relationship anarchy
 files:

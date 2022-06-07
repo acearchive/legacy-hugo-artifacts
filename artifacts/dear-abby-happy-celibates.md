@@ -1,13 +1,12 @@
 ---
-version: 1
+version: 2
 title: "\"Happy Celibates Want No Change\""
 description: >
-    An asexual <em>Dear Abby</em> letter writer responds to a statement Abby
-    made about abstinence
+    An asexual *Dear Abby* letter writer responds to a statement Abby made
+    about abstinence
 longDescription: >
-    An asexual <em>Dear Abby</em> letter writer responds to Abby's statement
-    that "no healthy normal man (or woman) is supposed to be 'happy' in
-    abstinence"
+    An asexual *Dear Abby* letter writer responds to Abby's statement that "no
+    healthy normal man (or woman) is supposed to be 'happy' in abstinence"
 files:
   - name: "Digital Scan"
     mediaType: "image/png"

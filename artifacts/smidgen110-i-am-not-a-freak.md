@@ -1,5 +1,5 @@
 ---
-version: 1
+version: 2
 title: "\"I Am Not a Freak!!!!\""
 description: >
     A nonsexual person dispels some myths about their nonsexuality

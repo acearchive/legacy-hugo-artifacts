@@ -1,13 +1,12 @@
 ---
-version: 1
+version: 2
 title: "\"No sex please, we're asexual\""
 description: >
-    An article in <em>The Guardian</em> about asexuality which mentions AVEN
-    and quotes asexual people
+    An article in *The Guardian* about asexuality which mentions AVEN and
+    quotes asexual people
 longDescription: >
-    An article in <em>The Guardian</em> about asexuality which mentions AVEN,
-    includes quotes from asexual people, and distinguishes asexuality from
-    libido
+    An article in *The Guardian* about asexuality which mentions AVEN, includes
+    quotes from asexual people, and distinguishes asexuality from libido
 links:
   - name: "Article"
     url: "https://www.theguardian.com/science/2004/oct/14/science.research1"

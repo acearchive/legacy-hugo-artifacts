@@ -1,11 +1,11 @@
 ---
-version: 1
+version: 2
 title: "\"Glad to be asexual\""
 description: >
-    An in-depth article on asexuality published in <em>New Scientist</em> where
+    An in-depth article on asexuality published in *New Scientist* where
     the author meets David Jay.
 longDescription: >
-    An in-depth article on asexuality published in <em>New Scientist</em> where
+    An in-depth article on asexuality published in *New Scientist* where
     the author meets David Jay and talks about AVEN and academic research on
     asexuality
 links:

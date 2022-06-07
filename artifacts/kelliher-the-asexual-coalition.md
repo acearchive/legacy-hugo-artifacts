@@ -1,5 +1,5 @@
 ---
-version: 1
+version: 2
 title: "The Asexual Coalition"
 description: >
     A site that defines asexuality as abstaining from romantic and sexual

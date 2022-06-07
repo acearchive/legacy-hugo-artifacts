@@ -1,5 +1,5 @@
 ---
-version: 1
+version: 2
 title: "\"A history of asexuality\""
 description: >
     A timeline of asexual history, with a major focus on early online asexual

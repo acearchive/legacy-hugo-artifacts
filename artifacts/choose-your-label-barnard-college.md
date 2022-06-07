@@ -1,13 +1,13 @@
 ---
-version: 1
+version: 2
 title: "\"Choose Your Label\" Barnard College"
 description: >
     A photo of activists at Barnard College inviting people to choose their own
     label
 longDescription: >
-    A photo published in the feminist news journal <em>Off Our Backs</em>
-    depicting activists at Barnard College inviting people to choose their own
-    label, with "asexual" as one of the options
+    A photo published in the feminist news journal *Off Our Backs* depicting
+    activists at Barnard College inviting people to choose their own label,
+    with "asexual" as one of the options
 files:
   - name: "Photo"
     mediaType: "image/png"

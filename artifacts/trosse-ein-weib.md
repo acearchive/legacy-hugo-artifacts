@@ -1,8 +1,8 @@
 ---
-version: 1
-title: "<em>Ein Weib?</em>"
+version: 2
+title: "*Ein Weib?*"
 description: "An early academic paper on queer identities where the author self-identities as asexual"
-longDescription: "An early academic paper on queer identities where the author discusses asexuality using the label <em>sinnlichkeitslosigkeit</em> (asensuality) and self-identifies as such"
+longDescription: "An early academic paper on queer identities where the author discusses asexuality using the label *sinnlichkeitslosigkeit* (asensuality) and self-identifies as such"
 files:
   - name: "Original Paper (Deutsch)"
     mediaType: "application/pdf"

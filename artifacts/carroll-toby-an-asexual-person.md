@@ -1,8 +1,10 @@
 ---
-version: 1
+version: 2
 title: "\"Toby: An Asexual Person\""
 description: "An excerpt from a textbook describing a neuter person"
-longDescription: "An excerpt from the book <em>Sexuality Now: Embracing Diversity</em>, which describes Toby (Jim Sinclair) as neuter and asexual"
+longDescription: >
+    An excerpt from the book *Sexuality Now: Embracing Diversity*, which
+    describes Toby (Jim Sinclair) as neuter and asexual
 files:
   - name: "Toby: An Asexual Person"
     mediaType: "image/png"

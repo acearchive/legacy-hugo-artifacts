@@ -1,5 +1,5 @@
 ---
-version: 1
+version: 2
 title: "Asexuality LiveJournal"
 description: >
     An asexual LiveJournal community, which was one of the first sex-positive

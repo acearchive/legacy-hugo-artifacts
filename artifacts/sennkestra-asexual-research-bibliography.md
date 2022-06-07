@@ -1,5 +1,5 @@
 ---
-version: 1
+version: 2
 title: "Asexual Research Bibliography"
 description: >
     A comprehensive bibliography of academic research on asexuality

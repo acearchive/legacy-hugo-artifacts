@@ -1,12 +1,11 @@
 ---
-version: 1
+version: 2
 title: "\"Study: One in 100 adults asexual\""
 description: >
-    An article by <em>CNN</em> about asexuality which mentions Anthony
-    Bogaert's study
+    An article by *CNN* about asexuality which mentions Anthony Bogaert's study
 longDescription: >
-    An article by <em>CNN</em> about asexuality which mentions Anthony
-    Bogaert's study on the prevalence of asexuality as well as AVEN
+    An article by *CNN* about asexuality which mentions Anthony Bogaert's study
+    on the prevalence of asexuality as well as AVEN
 links:
   - name: "Article"
     url: "https://www.cnn.com/2004/TECH/science/10/14/asexual.study/index.html"

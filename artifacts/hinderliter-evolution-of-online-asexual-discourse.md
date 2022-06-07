@@ -1,5 +1,5 @@
 ---
-version: 1
+version: 2
 title: "\"The Evolution of Online Asexual Discourse\""
 description: >
     An academic dissertation on asexual history and online asexual discourse

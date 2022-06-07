@@ -1,6 +1,6 @@
 ---
-version: 1
-title: "<em>Sexualpathologie</em>"
+version: 2
+title: "*Sexualpathologie*"
 description: >
     An early example of pathologization of asexual people in medical literature
     and use of the term "asexual"

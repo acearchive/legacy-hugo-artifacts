@@ -1,11 +1,11 @@
 ---
-version: 1
+version: 2
 title: "\"For Them, Just Saying No Is Easy\""
 description: >
-    An article in the <em>New York Times</em> about asexuality
+    An article in the *New York Times* about asexuality
 longDescription: >
-    An article in the <em>New York Times</em> about asexuality which mentions
-    AVEN and distinguishes asexuality from celibacy
+    An article in the *New York Times* about asexuality which mentions AVEN and
+    distinguishes asexuality from celibacy
 links:
   - name: "Article"
     url: "https://www.nytimes.com/2005/06/09/fashion/thursdaystyles/for-them-just-saying-no-is-easy.html"

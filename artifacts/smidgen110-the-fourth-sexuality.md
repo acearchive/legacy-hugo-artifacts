@@ -1,5 +1,5 @@
 ---
-version: 1
+version: 2
 title: "\"The Fourth Sexuality\""
 description: >
     A blog post where the author identifies as nonsexual and talks about the

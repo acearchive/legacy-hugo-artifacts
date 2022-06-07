@@ -1,11 +1,11 @@
 ---
-version: 1
-title: "Asexuality on <em>Dear Abby</em>"
+version: 2
+title: "Asexuality on *Dear Abby*"
 description: >
-    The term "asexual" is used in a response to a <em>Dear Abby</em> letter
+    The term "asexual" is used in a response to a *Dear Abby* letter
 longDescription: >
-    A 53-year-old man with "no feelings for men or women" writes to <em>Dear
-    Abby</em>, and Abby offers the asexual label and assures the man there's
+    A 53-year-old man with "no feelings for men or women" writes to *Dear
+    Abby*, and Abby offers the asexual label and assures the man there's
     nothing wrong with him
 files:
   - name: "Digital Scan"

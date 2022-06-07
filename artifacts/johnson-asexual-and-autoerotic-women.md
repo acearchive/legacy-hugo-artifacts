@@ -1,10 +1,10 @@
 ---
-version: 1
+version: 2
 title: "\"Asexual and Autoerotic Women: Two Invisible Groups\""
 description: "One of the first academic papers on asexuality"
 longDescription: >
-    One of the first academic papers on asexuality, published as part of the book
-    <em>The Sexually Oppressed</em>
+    One of the first academic papers on asexuality, published as part of the
+    book *The Sexually Oppressed*
 files:
   - name: "Digital Scan"
     mediaType: "application/pdf"

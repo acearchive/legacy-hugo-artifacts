@@ -66,14 +66,31 @@ opened and upload the content to Web3.Storage when a pull request is merged.
 The code which does this can be found at
 [acearchive/artifact-action](https://github.com/acearchive/artifact-action).
 
+## Schema version
+
+Artifact files have a schema version specified by a top-level `version` field,
+which is an integer that starts at `1` and increments with each
+backwards-incompatible change to the schema of artifact files.
+
+Whenever there's a schema version bump, all artifacts in this repo will be
+migrated to the new version. This means that all artifact files in the tip of
+`main` should always have the latest schema version.
+
+The reason for embedding the schema version in the artifact file is that
+[acearchive/artifact-action](https://github.com/acearchive/artifact-action) can
+be used to retrieve previous versions of artifact files.
+
+You can see a changelog of all artifact file schema versions at
+[CHANGELOG.md](./CHANGELOG.md).
+
 ## Example
 
 This is an example of an artifact file.
 
 ```yaml
 ---
-version: 1
-title: "<em>The Asexual Manifesto</em>"
+version: 2
+title: "*The Asexual Manifesto*"
 description: >
   A paper by the Asexual Caucus of the New York Radical Feminists
 files:

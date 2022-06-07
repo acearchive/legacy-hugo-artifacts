@@ -1,5 +1,5 @@
 ---
-version: 1
+version: 2
 title: "\"A/romanticism\""
 description: "The terms \"queerplatonic\" and \"zucchini\" are coined in the comments of a blog post on aromanticism"
 files:

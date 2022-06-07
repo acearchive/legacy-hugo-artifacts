@@ -1,5 +1,5 @@
 ---
-version: 1
+version: 2
 title: "asexuality.net"
 description: >
     A website from the early web dedicated to asexuality.

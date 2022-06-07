@@ -1,6 +1,6 @@
 ---
-version: 1
-title: "<em>The Asexual Manifesto</em>"
+version: 2
+title: "*The Asexual Manifesto*"
 description: >
     A paper by the Asexual Caucus of the New York Radical Feminists
 files:
