@@ -23,7 +23,7 @@ any reason, rename the file in this repo and add the old URL slug to the
 `aliases` field.
 
 [The schema of artifact files is documented
-here](https://acearchive.lgbt/docs/contributing/artifact-files/).
+here.](https://acearchive.lgbt/docs/contributing/artifact-files/)
 
 ## Contributing
 
@@ -48,7 +48,7 @@ both the current and previous versions of artifacts.
 
 Once you have an artifact's metadata, you can query the files associated with
 that artifact by the file's
-[CID](https://docs.ipfs.io/concepts/content-addressing/).  You can do this in
+[CID](https://docs.ipfs.io/concepts/content-addressing/). You can do this in
 one of two ways:
 
 - You can use an IPFS implementation like
@@ -78,7 +78,8 @@ migrated to the new version. This means that all artifact files in the tip of
 
 The reason for embedding the schema version in the artifact file is that
 [acearchive/artifact-action](https://github.com/acearchive/artifact-action) can
-be used to retrieve previous versions of artifact files.
+be used to retrieve previous versions of artifact files as well as the current
+version.
 
 You can see a changelog of all artifact file schema versions at
 [CHANGELOG.md](./CHANGELOG.md).

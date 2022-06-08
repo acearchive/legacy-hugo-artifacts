@@ -1,7 +1,6 @@
 # Changelog
 
-This is a changelog for changes to the artifact file schema version. See the
-[README](./README.md) for details.
+This is a changelog for changes to the artifact file schema version.
 
 ## Version 1
 
