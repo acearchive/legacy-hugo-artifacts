@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "\"Asexual and Autoerotic Women: Two Invisible Groups\""
 description: "One of the first academic papers on asexuality"
 longDescription: >
@@ -12,6 +12,7 @@ files:
     cid: "bafybeiddkkdrgrue73tdh5alepcqhao6h3t3xrsfn3nvxucmeond23cj2u"
   - name: "Transcript"
     mediaType: "text/html"
+    filename: "asexual-and-autoerotic-women-transcript"
     cid: "bafybeifmcuybcbfi34z2yotq452kvq6og7gxvge7zjdxpatxjubo3n2fcm"
   - name: "The Sexually Oppressed (Citation)"
     filename: "the-sexually-oppressed.bib"

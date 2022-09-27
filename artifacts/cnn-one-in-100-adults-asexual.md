@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "\"Study: One in 100 adults asexual\""
 description: >
     An article by *CNN* about asexuality which mentions Anthony Bogaert's study

@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "TNGirlTech’s Asexualism Page"
 description: >
     A pre-AVEN FAQ page on asexuality

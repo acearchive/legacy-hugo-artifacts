@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "Kertbeny's pamphlets protesting Prussian sodomy laws"
 description: "Pamphlets protesting Prussian sodomy laws which coined the terms \"homosexual\" and \"heterosexual\""
 longDescription: "Pamphlets protesting Prussian sodomy laws which coined the terms \"homosexual\" and \"heterosexual\", as well as \"monosexual\""

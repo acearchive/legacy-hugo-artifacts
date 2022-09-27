@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "\"Nonsexuality Rant\""
 description: >
     A blog post from the eaarly web where the author complains about people

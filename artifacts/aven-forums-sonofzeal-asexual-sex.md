@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "\"Asexual sex\""
 description: "The term \"demisexual\" is coined in an AVEN forum thread"
 links:

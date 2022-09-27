@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "*The Asexual Manifesto*"
 description: >
     A paper by the Asexual Caucus of the New York Radical Feminists
@@ -10,6 +10,7 @@ files:
     cid: "bafybeihsf4562gmmyoya7eh5buxv65lqcdoil3wsi5jf5fceskap7yzooi"
   - name: "Transcript"
     mediaType: "text/html"
+    filename: "the-asexual-manifesto-transcript"
     cid: "bafybeib2fu4qf44xiyduvhadog5raukc3ajdnd4qpsavyxaa2umzjeif5y"
 links:
   - name: "Internet Archive"

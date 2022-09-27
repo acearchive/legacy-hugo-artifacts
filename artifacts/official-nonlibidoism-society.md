@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "The Official Nonlibidoism Society"
 description: >
     A website dedicated to people with no libido

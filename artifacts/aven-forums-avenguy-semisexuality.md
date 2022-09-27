@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "\"Semisexuality\""
 description: >
     An early discussion about aspec identities between allosexual and asexual

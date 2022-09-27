@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "*The short instructional manifesto for relationship anarchy*"
 description: >
     A pamphlet which first introduced the concept of relationship anarchy

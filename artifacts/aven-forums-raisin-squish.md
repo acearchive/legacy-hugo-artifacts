@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "\"\\*SQUISH!\\*\""
 description: "The term \"squish\" is coined in an AVEN forum thread"
 links:

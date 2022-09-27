@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "\"A thought: \'WTFromantic\'\""
 description: "The term \"quoiromantic\" is coined in a blog post"
 links:

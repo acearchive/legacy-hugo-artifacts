@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "Asexuality on *Dear Abby*"
 description: >
     The term "asexual" is used in a response to a *Dear Abby* letter
@@ -14,6 +14,7 @@ files:
     cid: "bafybeib5dynu7sfh5gq2enx3b4hwz3wy35zrrfr5i3jh47yeg6uedcieiy"
   - name: "Transcript"
     mediaType: "text/html"
+    filename: "dear-abby-not-looking-transcript"
     cid: "bafybeid5y2klzypxv7flvzlbwj7xzoxmwlrjrkhwvha5k2jrkaqbvbhuu4"
   - name: "Citation"
     filename: "dear-abby-not-looking.bib"

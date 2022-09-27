@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "Toby on *Sally*"
 description: "Toby (Jim Sinclair) being interviewed on the talk show *Sally*"
 files:

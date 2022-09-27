@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "Nat Titman's talk at WorldPride Asexual Conference"
 description: >
     A talk at WorldPride Asexual Conference 2012 on early asexual history

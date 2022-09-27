@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "*Ein Weib?*"
 description: "An early academic paper on queer identities where the author self-identities as asexual"
 longDescription: "An early academic paper on queer identities where the author discusses asexuality using the label *sinnlichkeitslosigkeit* (asensuality) and self-identifies as such"

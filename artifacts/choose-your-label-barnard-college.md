@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "\"Choose Your Label\" Barnard College"
 description: >
     A photo of activists at Barnard College inviting people to choose their own
@@ -15,6 +15,7 @@ files:
     cid: "bafkreigwewroyf4yokdjayboaxhr3nxrqp3543jwxdoda2zvjm3phtlup4"
   - name: "Article Transcript"
     mediaType: "text/html"
+    filename: "choose-your-label-transcript"
     cid: "bafybeibcqnvnslchlhxwnifrmljf6sskijatbgh6rpkqnjsnmmfz7oatui"
   - name: "Off Our Backs, vol. 3, no. 6"
     mediaType: "application/pdf"

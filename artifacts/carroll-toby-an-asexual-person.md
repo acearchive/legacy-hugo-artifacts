@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "\"Toby: An Asexual Person\""
 description: "An excerpt from a textbook describing a neuter person"
 longDescription: >
@@ -12,6 +12,7 @@ files:
     cid: "bafkreidf5i5jflyx6e4lnk7y2ebrv6yz2ky62rh6vkmiptqvnphgsoxzly"
   - name: "Toby: An Asexual Person (Transcript)"
     mediaType: "text/html"
+    filename: "toby-an-asexual-person-transcript"
     cid: "bafybeibiedyr57dtyyyt6nrzqgayla7sjd4obamuswi27qc3zard7owegy"
   - name: "Sexuality Now: Embracing Diversity (Citation)"
     filename: "sexuality-now-embracing-diversity.bib"

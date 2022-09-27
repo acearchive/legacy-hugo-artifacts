@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "*Sexualpathologie*"
 description: >
     An early example of pathologization of asexual people in medical literature

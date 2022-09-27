@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "Leather Spinsters: Asexuality"
 description: >
     A page on the website for the Leather Spinsters dedicated to their asexual

@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "\"My life as an amoeba\""
 description: "A blog post about coming out as asexual"
 links:

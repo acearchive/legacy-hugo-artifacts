@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "RU.Antisex"
 description: >
     A website from the early web which takes a moral and ethical stance against

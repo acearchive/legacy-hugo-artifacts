@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "\"Questions Asked by Asexual and Questioning People\""
 description: >
     An early version of the AVEN FAQ, written by Nat Titman

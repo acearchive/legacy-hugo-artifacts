@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "Introduction of the asexual pride flag"
 description: >
     The asexual pride flag is proposed, designed, voted on, and decided on

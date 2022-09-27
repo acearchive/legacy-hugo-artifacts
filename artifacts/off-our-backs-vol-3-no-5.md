@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "*Off Our Backs*, vol. 3, no. 5"
 description: >
     An issue of a feminist news journal that mentions asexuality
@@ -17,6 +17,7 @@ files:
     cid: "bafybeigjat5oubirj6wjlvqak5enfk4pxa2rg77wvtgguayio5oogm6ipq"
   - name: "Your Own Label (Transcript)"
     mediaType: "text/html"
+    filename: "your-own-label-transcript"
     cid: "bafybeiduubpve6zozjlo2q7qko25b5vd24dunm5yszwyovckzvr5ys6n7y"
   - name: "Citation"
     filename: "off-our-backs-vol-3-no-5.bib"

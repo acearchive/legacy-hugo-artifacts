@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "\"Asexuality BC (Before Cake)\""
 description: "A personal recounting of early asexual history by an early AVEN member"
 longDescription: "A personal recounting of early asexual history by the creator of the Asexual LiveJournal community and the author of the original AVEN FAQ"

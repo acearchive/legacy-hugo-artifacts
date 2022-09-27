@@ -90,7 +90,7 @@ This is an example of an artifact file.
 
 ```yaml
 ---
-version: 2
+version: 3
 title: "*The Asexual Manifesto*"
 description: >
   A paper by the Asexual Caucus of the New York Radical Feminists
@@ -101,6 +101,7 @@ files:
     cid: "bafybeihsf4562gmmyoya7eh5buxv65lqcdoil3wsi5jf5fceskap7yzooi"
   - name: "Transcript"
     mediaType: "text/html"
+    filename: "the-asexual-manifesto-transcript"
     cid: "bafybeiakup4b3mjmzw7mjq3ptnv3dqusdebskra2jic73u74nhbizgu3wi"
 links:
   - name: "Internet Archive"

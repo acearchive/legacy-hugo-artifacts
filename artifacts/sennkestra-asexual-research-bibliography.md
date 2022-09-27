@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "Asexual Research Bibliography"
 description: >
     A comprehensive bibliography of academic research on asexuality
@@ -12,6 +12,7 @@ files:
     filename: "asexual-research-bibliography.bib"
     cid: "bafkreig2csq5gg2bt5vcuvyip66jhlpvqjd36nir452xlcuucxx3oi3xue"
   - name: "Full-text Articles"
+    filename: "full-text-articles"
     mediaType: "text/html"
     cid: "bafybeiemrzmycusnhkfkjg2pmckkdwcce6oajlxhb4cfnjsa6xb7izq4hm"
 links:

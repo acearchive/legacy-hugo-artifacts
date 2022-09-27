@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "Coining of the term \"aromantic\""
 description: >
     The term "aromantic" is used for the first time in an asexual message board

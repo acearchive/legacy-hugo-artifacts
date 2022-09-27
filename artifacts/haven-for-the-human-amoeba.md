@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "*Haven for the Human Amoeba*"
 description: >
     The first major online community for asexuals

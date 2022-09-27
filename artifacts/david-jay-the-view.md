@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "David Jay on *The View*"
 description: >
     David Jay, founder of AVEN, is interviewed on ABC's *The View*

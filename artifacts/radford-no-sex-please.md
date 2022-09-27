@@ -1,5 +1,5 @@
 ---
-version: 2
+version: 3
 title: "\"No sex please, we're asexual\""
 description: >
     An article in *The Guardian* about asexuality which mentions AVEN and
