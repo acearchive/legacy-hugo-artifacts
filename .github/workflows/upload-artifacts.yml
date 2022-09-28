@@ -13,7 +13,7 @@ jobs:
     name: "Upload"
     runs-on: ubuntu-latest
     services:
-      ipfs:
+      ipfs-node:
         image: "ipfs/go-ipfs:latest"
         ports:
           - 4001:4001
@@ -22,8 +22,11 @@ jobs:
     steps:
       - name: "Checkout"
         uses: actions/checkout@v2
-      - name: "Upload"
-        uses: acearchive/artifact-action@v0.2.0
         with:
+          fetch-depth: 0
+      - name: "Upload"
+        uses: acearchive/artifact-action@v0.3.0
+        with:
+          mode: upload
+          ipfs-api: "/dns/ipfs-node/tcp/5001/http"
           w3s-token: ${{ secrets.W3S_API_TOKEN }}
-          ipfs-api: "/dns/ipfs/tcp/5001/http"
