@@ -24,13 +24,14 @@ jobs:
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
-      - name: "Upload to Web3.Storage"
+      - name: "Pin to IPFS"
         id: artifact-action
         uses: acearchive/artifact-action@main
         with:
           mode: upload
           ipfs-api: "/dns/ipfs-node/tcp/5001/http"
-          w3s-token: ${{ secrets.W3S_API_TOKEN }}
+          pin-endpoint: "https://api.filebase.io/v1/ipfs"
+          pin-token: ${{ secrets.FILEBASE_PIN_API_TOKEN }}
       - name: "Publish IPNS name"
         uses: acearchive/w3name-action@main
         with:
