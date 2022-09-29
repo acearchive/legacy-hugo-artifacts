@@ -24,9 +24,15 @@ jobs:
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
-      - name: "Upload"
-        uses: acearchive/artifact-action@v0.3.0
+      - name: "Upload to Web3.Storage"
+        id: artifact-action
+        uses: acearchive/artifact-action@main
         with:
           mode: upload
           ipfs-api: "/dns/ipfs-node/tcp/5001/http"
           w3s-token: ${{ secrets.W3S_API_TOKEN }}
+      - name: "Publish IPNS name"
+        uses: acearchive/w3name-action@main
+        with:
+          private-key: ${{ secrets.IPNS_KEY }}
+          path: ${{ format('/ipfs/{0}', steps.artifact-action.outputs.root-cid) }}

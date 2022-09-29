@@ -1,0 +1,20 @@
+# As of time of writing, IPNS names published to w3name only live for 1 year
+# after creation. In case no new revisions of the IPNS name are published for a
+# long time, this workflow will automatically re-publish the IPNS name four
+# times a year, keeping its current IPFS path.
+name: "Refresh IPNS name"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 1 2,5,8,11 *"
+
+jobs:
+  upload:
+    name: "Upload"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Publish IPNS name"
+        uses: acearchive/w3name-action@main
+        with:
+          private-key: ${{ secrets.IPNS_KEY }}
