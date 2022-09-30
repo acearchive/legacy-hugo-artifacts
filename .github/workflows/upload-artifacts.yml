@@ -31,7 +31,7 @@ jobs:
           mode: upload
           ipfs-api: "/dns/ipfs-node/tcp/5001/http"
           pin-endpoint: "https://api.filebase.io/v1/ipfs"
-          pin-token: ${{ secrets.FILEBASE_PIN_API_TOKEN }}
+          pin-token: ${{ secrets.FILEBASE_API_TOKEN }}
       - name: "Publish IPNS name"
         uses: acearchive/w3name-action@main
         with:
