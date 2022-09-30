@@ -28,7 +28,7 @@ jobs:
         id: artifact-action
         uses: acearchive/artifact-action@main
         with:
-          mode: upload
+          mode: pin
           ipfs-api: "/dns/ipfs-node/tcp/5001/http"
           pin-endpoint: "https://api.filebase.io/v1/ipfs"
           pin-token: ${{ secrets.FILEBASE_API_TOKEN }}
@@ -36,4 +36,4 @@ jobs:
         uses: acearchive/w3name-action@main
         with:
           private-key: ${{ secrets.IPNS_KEY }}
-          path: ${{ format('/ipfs/{0}', steps.artifact-action.outputs.root-cid) }}
+          path: ${{ format('/ipfs/{0}', steps.artifact-action.outputs.root) }}
