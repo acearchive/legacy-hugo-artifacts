@@ -15,7 +15,7 @@ links:
   - name: "Browsable Archive"
     url: "https://hha.acearchive.lgbt"
   - name: "Source Code"
-    url: "https://github.com/acearchive/yg-render"
+    url: "https://github.com/acearchive/yahoo-groups-reader"
 people: ["David Jay", "Jim Sinclair", "Nat Titman", "TNGirlTech", "maxnova100"]
 identities: ["asexual", "aromantic", "antisexual", "intersex", "neuter", "nonsexual"]
 fromYear: 2000
