@@ -1,3 +1,12 @@
+![Unmaintained](https://img.shields.io/badge/unmaintained-%F0%9F%9B%87-red?style=for-the-badge)
+
+**DEPRECATED**
+
+*This repo has been deprecated now that we are no longer using IPFS for hosting
+content. The documentation below is no longer accurate. See
+[artifact-submissions](https://github.com/acearchive/artifact-submissions) and
+[hugo-artifacts](https://github.com/acearchive/hugo-artifacts) instead.*
+
 # artifacts
 
 This repository contains metadata for all the artifacts in [Ace
